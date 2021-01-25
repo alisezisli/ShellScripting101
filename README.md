@@ -15,3 +15,9 @@ Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundur
 + Scriptlerin içeriğini kontrol etmeden **çalıştırmayın.** 
 + Scriptlerin izinlerini kontrol edin.
 + Lütfen "chmod a+x" ya da "chmod 777" gibi garip izinler vermeyin. **"chmod 744"** işinizi görecektir. Daha değişik bir kişiliğiniz varsa **"chmod 700"** bile verebilirsiniz.
+
+## Konular
++ [Shell Script #0 - (Giriş)](https://alisezisli.com.tr/shell-script-0-giris/ "Shell Script #0 - (Giriş)")
++ [Shell Script #1 – (Yorumlar, Here Document ve Debugging)](https://alisezisli.com.tr/shell-script-1-yorumlar-here-document-ve-debugging/ "Shell Script #1 - (Yorumlar, Here Document ve Debugging)")
++ [Shell Script #2 – Değişkenler, Bazı Özel Karakterler ve Çıkış Kodları](https://alisezisli.com.tr/shell-script-2-degiskenler-bazi-ozel-karakterler-ve-cikis-kodlari/ "Shell Script #2 – Değişkenler, Bazı Özel Karakterler ve Çıkış Kodları")
++ [Shell Script #3 – Shell Script’lerin Çalışma Mantığı](https://alisezisli.com.tr/shell-script-3-shell-scriptlerin-calisma-mantigi/ "Shell Script #3 – Shell Script’lerin Çalışma Mantığı")
