@@ -2,8 +2,9 @@
 **"Shell Script"** kategorisi altında yayınladığım yazılarımdan Bash script örnekleri.
 
 ## Bağlantılar
-+ Blogumda, shell scripting konusunda öğrendiklerimi anlatmaya çalışıyorum: [Konu anlatımlarına buradan ulaşabilirsiniz.](https://alisezisli.com.tr/category/shell-script/ "Shell Script Örnekleri")
-+ Yeni yazılar ekledikçe, konuya ilgili arkadaşlar bir araya gelip birlikte scriptler yazıyor, sorular soruyor, tartışıyor. Bütün bu olay Discord üzerinden dönüyor: [Discord sunucusu.](https://discord.com/invite/Rq6tHsu/ "Dega Discord Server")
++ Blogumda, shell scripting konusunda öğrendiklerimi anlatmaya çalışıyorum: [Konu anlatımlarına buradan ulaşabilirsiniz](https://alisezisli.com.tr/category/shell-script/ "Shell Script Örnekleri")
++ Yeni yazılar ekledikçe, konuya ilgili arkadaşlar bir araya gelip birlikte scriptler yazıyor, sorular soruyor, tartışıyor. Bütün bu olay Discord üzerinden dönüyor: [Discord sunucusu](https://discord.com/invite/Rq6tHsu/ "Dega Discord Server")
++ "Sizin olayınız nedir?" diyorsanız: [GNU Admin](https://gnuadm.in "GNU Admin")
 
 ## Başlamadan Önce
 Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundurmalısınız:
