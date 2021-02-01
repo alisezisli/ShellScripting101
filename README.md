@@ -23,3 +23,4 @@ Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundur
 + [Shell Script #2 – Değişkenler, Bazı Özel Karakterler ve Çıkış Kodları](https://alisezisli.com.tr/shell-script-2-degiskenler-bazi-ozel-karakterler-ve-cikis-kodlari/ "Shell Script #2 – Değişkenler, Bazı Özel Karakterler ve Çıkış Kodları")
 + [Shell Script #3 – Shell Script’lerin Çalışma Mantığı](https://alisezisli.com.tr/shell-script-3-shell-scriptlerin-calisma-mantigi/ "Shell Script #3 – Shell Script’lerin Çalışma Mantığı")
 + [Shell Script #4 – Bash'in Yapılandırma Dosyaları](https://alisezisli.com.tr/shell-script-4-bashin-yapilandirma-dosyalari/ "Shell Script #4 – Bash'in Yapılandırma Dosyaları")
++ [Shell Script #5 – Local ve Environment Variables](https://alisezisli.com.tr/shell-script-5-local-ve-environment-variables/ "Shell Script #5 – Local ve Environment Variables")
