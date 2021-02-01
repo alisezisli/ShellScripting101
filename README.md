@@ -1,5 +1,5 @@
 # Shell Scripting - 101
-**"Shell Script"** kategorisi altında yayınladığım yazılarımdan Bash script örnekleri.
+[**"Shell Script"**](https://alisezisli.com.tr/category/shell-script/ "Shell Scripting'e Giriş") kategorisi altında yayınladığım yazılarımdan Bash script örnekleri.
 
 ## Bağlantılar
 + Blogumda, shell scripting konusunda öğrendiklerimi anlatmaya çalışıyorum: [Konu anlatımlarına buradan ulaşabilirsiniz](https://alisezisli.com.tr/category/shell-script/ "Shell Script Örnekleri")
