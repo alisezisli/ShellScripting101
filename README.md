@@ -25,3 +25,4 @@ Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundur
 + [Shell Script #4 – Bash'in Yapılandırma Dosyaları](https://alisezisli.com.tr/shell-script-4-bashin-yapilandirma-dosyalari/ "Shell Script #4 – Bash'in Yapılandırma Dosyaları")
 + [Shell Script #5 – Local ve Environment Variables](https://alisezisli.com.tr/shell-script-5-local-ve-environment-variables/ "Shell Script #5 – Local ve Environment Variables")
 + [Shell Script #6 – Matematiksel İşlemler](https://alisezisli.com.tr/shell-script-6-matematiksel-islemler/ "Shell Script #6 – Matematiksel İşlemler")
++ [Shell Script #7 – İnteraktif Script'ler](https://alisezisli.com.tr/shell-script-7-interaktif-scriptler/ "Shell Script #7 – İnteraktif Script'ler")
