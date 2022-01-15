@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Konu anlatımı: https://alisezisli.com.tr/shell-script-9-karar-yapilari 
+#Konu anlatımı: https://alisezisli.com.tr/shell-script-9-karar-yapilari-if-elif-else
 
 #isim değişkeninin değerine göre bir komut çalıştıralım:
 
@@ -100,4 +100,35 @@ then
 	echo $str1 önce geliyor
 else
 	echo $str2 önce geliyor
+fi
+
+
+# AND OR NOT örnekleri
+
+# AND örneği:
+
+yas=30
+
+if [[ (${yas} -gt 18) && (${yas} -lt 70) ]]
+then
+	echo "Reşit olabilirsin ama emekli olamazsın."
+fi
+
+
+
+# OR örneği:
+
+dosya="/bin/bash"
+
+if [[ "${dosya}" = "/bin/bash" || "${dosya}" = "/bin/sh" ]]
+then
+	echo "Hâlâ umut var."
+fi
+
+
+# NOT örneği:
+
+if [[ !(-f "/etc/httpd.conf") ]]
+then
+	echo "/etc/httpd.conf dosyası bulunamadı."
 fi
