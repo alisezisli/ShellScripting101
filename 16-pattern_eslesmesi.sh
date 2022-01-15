@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Konu anlatımı: https://alisezisli.com.tr/shell-script-9-karar-yapilari 
+#Konu anlatımı: https://alisezisli.com.tr/shell-script-9-karar-yapilari-if-elif-else
 
 
 #Pattern'lar üzerinden kıyaslama örneği:
