@@ -26,3 +26,4 @@ Bu repodaki içerikleri incelerken aşağıdaki konuları göz önünde bulundur
 + [Shell Script #6 – Matematiksel İşlemler](https://alisezisli.com.tr/shell-script-6-matematiksel-islemler/ "Shell Script #6 – Matematiksel İşlemler")
 + [Shell Script #7 – İnteraktif Script'ler](https://alisezisli.com.tr/shell-script-7-interaktif-scriptler/ "Shell Script #7 – İnteraktif Script'ler")
 + [Shell Script #8 – Değişkenlerle Oynamak](https://alisezisli.com.tr/shell-script-8-degiskenlerle-oynamak/ "Shell Script #8 – Değişkenlerle Oynamak")
++ [Shell Script #9 – Karar Yapıları (if, elif, else)](https://alisezisli.com.tr/shell-script-9-karar-yapilari-if-elif-else/ "Shell Script #9 – Karar Yapıları (if, elif, else")
